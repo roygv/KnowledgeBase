@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "942e246cb6ee166f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2677e60dcf360a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12437e70985bf7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "319ebd2d7317ed8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da52b7ddd6a32fd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147fe567a360d5f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3118d6a5f918efda",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce9859d0ca1b4653",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 213.5
+  },
+  "right": {
+    "id": "30a32b78a9241ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9842b3a239051cd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aac6a8d5778a7f29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b28dbcf3f24ae61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8b022599a165ba4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "170f6843e8fac761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "12437e70985bf7bc",
+  "lastOpenFiles": [
+    "Visualizations of important concepts.md",
+    "Git/Merge.md",
+    "Git/Pull.md",
+    "Git/Fetch.md",
+    "Git/Reflog.md",
+    "Git/Cherry Pick.md",
+    "Git/Revert.md",
+    "Git/Reset.md",
+    "Git/Interactive rebase.md",
+    "Git/Rebase.md"
+  ]
+}
