@@ -11,12 +11,8 @@
             "id": "12437e70985bf7bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visualizations of important concepts.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visualizations of important concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visualizations of important concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -124,16 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Visualizations of important concepts.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12437e70985bf7bc",
+  "active": "147fe567a360d5f6",
   "lastOpenFiles": [
+    "Git/Git terminology.md",
+    "Git/Architecture.md",
+    "Push.md",
+    "Git/Working with branches.md",
+    "Git/Git commands.md",
+    "Git/Git.md",
+    "Git/Integrations.md",
+    "Git/Visualizations of important concepts.md",
     "Git/Reflog.md",
-    "Recipes.md",
-    "Git/Merge.md",
-    "Visualizations of important concepts.md",
-    "Git.md",
-    "Git Internals.md",
-    "Git/Rebase.md",
-    "Git/Pull.md",
-    "Git/Fetch.md",
-    "Git/Cherry Pick.md"
+    "Git/Recipes.md"
   ]
 }
