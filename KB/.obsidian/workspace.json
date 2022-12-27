@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Recipes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Recipes.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "12437e70985bf7bc",
   "lastOpenFiles": [
-    "Git Internals.md",
-    "Git.md",
-    "Recipes.md",
-    "Git/Rebase.md",
-    "Visualizations of important concepts.md",
     "Git/Merge.md",
+    "Visualizations of important concepts.md",
+    "Recipes.md",
+    "Git.md",
+    "Git Internals.md",
+    "Git/Rebase.md",
     "Git/Pull.md",
     "Git/Fetch.md",
     "Git/Reflog.md",
