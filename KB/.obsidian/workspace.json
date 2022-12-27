@@ -149,15 +149,15 @@
   },
   "active": "12437e70985bf7bc",
   "lastOpenFiles": [
+    "Recipes.md",
+    "Git.md",
+    "Git Internals.md",
+    "Git/Rebase.md",
     "Visualizations of important concepts.md",
     "Git/Merge.md",
     "Git/Pull.md",
     "Git/Fetch.md",
     "Git/Reflog.md",
-    "Git/Cherry Pick.md",
-    "Git/Revert.md",
-    "Git/Reset.md",
-    "Git/Interactive rebase.md",
-    "Git/Rebase.md"
+    "Git/Cherry Pick.md"
   ]
 }
