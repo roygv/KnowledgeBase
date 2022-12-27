@@ -21,7 +21,7 @@
 #### Merge to main
 `git checkout main`
 `git merge <branch>`
-#### Delete branch
+#### Delete branch (both local and remote)
 `git branch -d --remote <branch>`
 
 
