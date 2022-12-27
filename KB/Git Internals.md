@@ -21,5 +21,10 @@ git status
 `git diff <path to file>`
 -- Compare index to the branch/HEAD/commit
 `git diff [HEAD | <branch name> | commit]`
+-- Compare two branches/HEAD/commit
+`git diff <branch1> <branch2>
+-- Compare a file between two branches/HEAD/commit
+`git diff <branch1> <branch2> <path to file>`
+
 
 
