@@ -5,7 +5,7 @@
 5. `git add .`
 6. `git commit -m "initial commit"`
 7. `git remote add origin https://github.com/<github login>/<repository>.git` 
-8. [Create an access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to github. Use it as a password when asked
+8. # [Create an access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to github. Use it as a password when asked
 9. `git remote -v`  # verify the remote
 10. `git push -u *origin* main`
 ## Setting your user name and e-mail
@@ -22,6 +22,7 @@
 `git checkout main`
 `git merge <branch>`
 #### Delete branch (both local and remote)
-`git branch -d --remote <branch>`
+`git branch -delete <branch>`
+`git push origin --delete <branch>`
 
 

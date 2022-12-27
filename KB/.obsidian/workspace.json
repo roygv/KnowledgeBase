@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes.md",
+                "file": "Visualizations of important concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recipes.md",
+                "file": "Visualizations of important concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recipes.md",
+                "file": "Visualizations of important concepts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,17 +125,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recipes.md"
+                "file": "Visualizations of important concepts.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,15 +147,15 @@
   },
   "active": "12437e70985bf7bc",
   "lastOpenFiles": [
+    "Git/Reflog.md",
+    "Recipes.md",
     "Git/Merge.md",
     "Visualizations of important concepts.md",
-    "Recipes.md",
     "Git.md",
     "Git Internals.md",
     "Git/Rebase.md",
     "Git/Pull.md",
     "Git/Fetch.md",
-    "Git/Reflog.md",
     "Git/Cherry Pick.md"
   ]
 }
