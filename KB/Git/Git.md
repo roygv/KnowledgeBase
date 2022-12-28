@@ -1,3 +1,4 @@
+![[git.png|60]]
 Git is a distributed version control system, tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 [[Architecture]]
 [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
