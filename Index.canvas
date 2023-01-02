@@ -1,7 +1,10 @@
 {
 	"nodes":[
 		{"id":"f45b63d630c6e4b1","x":-1108,"y":-2474,"width":400,"height":235,"type":"file","file":"KB/Git/Git.md"},
-		{"id":"46b6894c5a568b0a","x":-708,"y":-2474,"width":400,"height":235,"type":"file","file":"KB/Obsidian/Obsidian.md"}
+		{"id":"46b6894c5a568b0a","x":-708,"y":-2474,"width":400,"height":235,"type":"file","file":"KB/Obsidian/Obsidian.md"},
+		{"id":"9ee4431305567b63","x":-1108,"y":-2212,"width":400,"height":238,"type":"file","file":"KB/VIM/VIM.md"},
+		{"id":"2356501523dc8fcf","x":-708,"y":-2212,"width":400,"height":238,"type":"file","file":"KB/Snowflake/Snowflake.md"},
+		{"id":"25e8bb24758b6de0","x":-1108,"y":-1948,"width":400,"height":283,"type":"file","file":"KB/Big Query/Big Query.md"}
 	],
 	"edges":[]
 }
