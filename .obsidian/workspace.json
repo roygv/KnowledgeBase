@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "KB/SQL/Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL.md",
+                "file": "Working with INFORMATION_SCHEMA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL.md",
+                "file": "KB/SQL/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL.md",
+                "file": "KB/SQL/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.md"
+                "file": "KB/SQL/Exercises.md"
               }
             }
           }
@@ -159,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11a65cb347fe41f6",
+  "active": "b87186852ef9e13c",
   "lastOpenFiles": [
     "Index.md",
+    "Working with INFORMATION_SCHEMA.md",
+    "KB/SQL/Exercises.md",
+    "KB/SQL/SQL.md",
     "KB/Git/Integrations.md",
     "Index.canvas",
     "KB/Git/Git.md",
     "KB/Obsidian/Obsidian.md",
     "images/screenshots/Screenshot 2022-12-06 at 8.52.34 AM.png",
-    "images/Pasted image 20221227151728.png",
-    "2022-12-27.md",
-    "README.md",
-    "KB/Git/Recipes.md"
+    "images/Pasted image 20221227151728.png"
   ]
 }
