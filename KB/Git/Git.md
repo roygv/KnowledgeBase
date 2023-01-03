@@ -13,4 +13,5 @@ On-line Classes
 [[Recipes]]
 [[Git Internals]]
 [[Integrations]]
+[[GUIs for git]]
 

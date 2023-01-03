@@ -82,17 +82,22 @@ Some languages use multibyte characters. What are the things we need to keep in 
 For ease of visualization, it is sometimes helpful to show in addition to the top n values, another value  called 'other' where all the smaller values are represented. This can be done by the query itself
 
 ## 29. [[Working with INFORMATION_SCHEMA]]
-Information schema is a standard schema that stores meta-data about the structure of the database, such as the tables, columns, constraints etc.
+Information schema is a standard schema that stores meta-data about the structure of the database, such as the tables, columns, constraints etc. 
 
 ## 30. Show commonly used queries
+What queries are repeating the most
 
 ## 31. Show expensive queries
+What queries take the longest to run? Cost the most?
 
 ## 32. Show Heavy users
+Who are the users that cost the most to the organization? Who are the ones that run the most queries?
 
 ## 33. Show Largest tables
+What are the largest 10 tables in a database by number of rows and by space used?
 
 ## 34. Improving query performance
+What can we do to improve the performance of a slow running query? Can we see the execution graph?
 
 
 
