@@ -11,68 +11,13 @@
             "id": "b87186852ef9e13c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Index.canvas",
-                "viewState": {
-                  "x": -672.0992397260273,
-                  "y": -2054.383890410961,
-                  "zoom": -0.022712356578739202,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "8877e8abe562410f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Databases/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfe6cfa385c4e75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Matillion/Matillion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc8e688a036a40a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Matillion/Matillion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33657f7bee3e77cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KB/Git/Git.md",
-                "mode": "preview",
-                "source": false
+                "file": "images/screenshots/pyCharm git integration image.png"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KB/Git/Git.md",
+                "file": "images/screenshots/pyCharm git integration image.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KB/Git/Git.md",
+                "file": "images/screenshots/pyCharm git integration image.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KB/Git/Git.md"
+                "file": "images/screenshots/pyCharm git integration image.png"
               }
             }
           },
@@ -195,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,17 +154,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33657f7bee3e77cb",
+  "active": "66a818e7049dbe0e",
   "lastOpenFiles": [
-    "KB/Databases/Find duplicate records.md",
-    "KB/Obsidian/Obsidian.md",
+    "Index.canvas",
+    "KB/Databases/Tools.md",
+    "KB/Matillion/Matillion.md",
+    "KB/Git/Integrations.md",
     "KB/Git/Git.md",
     "KB/Git/GUIs for git.md",
-    "KB/Git/Integrations.md",
-    "KB/Git/Architecture.md",
-    "Index.canvas",
-    "images/Git Architecture.png",
-    "KB/Alation/Alation.md",
-    "KB/Matillion/Matillion.md"
+    "KB/Git/Git terminology.md",
+    "KB/Databases/Find duplicate records.md",
+    "KB/Obsidian/Obsidian.md",
+    "KB/Git/Architecture.md"
   ]
 }
