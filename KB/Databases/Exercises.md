@@ -1,4 +1,4 @@
-## 1. Find duplicate records
+## 1. [[Find duplicate records]]
 This is a common data validation query. Data that arrives via streaming, very often guarantee 'at least once' consistency but not 'exactly once'. 
 
 ## 2. Remove duplicate records
@@ -87,13 +87,13 @@ Information schema is a standard schema that stores meta-data about the structur
 ## 30. Show commonly used queries
 What queries are repeating the most
 
-## 31. Show expensive queries
+## 31. [[Show expensive queries]]
 What queries take the longest to run? Cost the most?
 
 ## 32. Show Heavy users
 Who are the users that cost the most to the organization? Who are the ones that run the most queries?
 
-## 33. Show Largest tables
+## 33. [[Show Largest tables]]
 What are the largest 10 tables in a database by number of rows and by space used?
 
 ## 34. Improving query performance
