@@ -11,9 +11,11 @@
             "id": "b87186852ef9e13c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/screenshots/pyCharm git integration image.png"
+                "file": "KB/Obsidian/Obsidian.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/screenshots/pyCharm git integration image.png",
+                "file": "KB/Obsidian/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/screenshots/pyCharm git integration image.png",
+                "file": "KB/Obsidian/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/screenshots/pyCharm git integration image.png"
+                "file": "KB/Obsidian/Obsidian.md"
               }
             }
           },
@@ -154,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66a818e7049dbe0e",
+  "active": "b87186852ef9e13c",
   "lastOpenFiles": [
+    "KB/Git/Git.md",
+    "KB/Git/Architecture.md",
+    "KB/Git/GUIs for git.md",
+    "KB/Obsidian/Obsidian.md",
     "Index.canvas",
+    "KB/Big Query/Big Query.md",
+    "images/screenshots/pyCharm git integration image.png",
     "KB/Databases/Tools.md",
     "KB/Matillion/Matillion.md",
-    "KB/Git/Integrations.md",
-    "KB/Git/Git.md",
-    "KB/Git/GUIs for git.md",
-    "KB/Git/Git terminology.md",
-    "KB/Databases/Find duplicate records.md",
-    "KB/Obsidian/Obsidian.md",
-    "KB/Git/Architecture.md"
+    "KB/Git/Integrations.md"
   ]
 }
