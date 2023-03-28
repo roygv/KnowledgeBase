@@ -1,0 +1,5 @@
+[Guide](https://airflow.apache.org/docs/apache-airflow/stable/howto/upgrading-from-1-10/index.html)
+[What's new in Airflow 2.0](https://airflow.apache.org/blog/airflow-two-point-oh-is-here/)
+[What's new in Airflow 2.4 (video)](https://www.google.com/search?q=airflow+what%27s+new+in+2.x&oq=airflow+what%27s+new+in+2.x&aqs=chrome..69i57j33i160j33i22i29i30l5.9702j1j4&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:e07d74fb,vid:vjiRDIYhvUs)
+[What's new in Airflow 2.4](https://airflow.apache.org/blog/airflow-2.4.0)
+[What's new in Airflow 2.5](https://airflow.apache.org/blog/airflow-2.5.0)

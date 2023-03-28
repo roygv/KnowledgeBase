@@ -99,6 +99,8 @@ What are the largest 10 tables in a database by number of rows and by space used
 ## 34. Improving query performance
 What can we do to improve the performance of a slow running query? Can we see the execution graph?
 
+## 35. Time travel without updating rows
+Create and query a Type 2 SCD without updating the previous row's expired_at. I.e. when a value changes a new rows gets added for it with only a created_at
 
 
 

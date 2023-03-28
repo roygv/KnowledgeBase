@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a53dbda9268c059a",
+        "id": "c298b86a8f80ea9f",
         "type": "tabs",
         "children": [
           {
-            "id": "b87186852ef9e13c",
+            "id": "c316bce68ed13ab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KB/Obsidian/Obsidian.md",
+                "file": "KB/dbt/dbt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ce7f0013501988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Airflow/Migration 1.x to 2.x.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efcb76b6b0152c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KB/Obsidian/Obsidian.md",
+                "file": "KB/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KB/Obsidian/Obsidian.md",
+                "file": "KB/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KB/Obsidian/Obsidian.md"
+                "file": "KB/Git/Git.md"
               }
             }
           },
@@ -156,17 +181,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b87186852ef9e13c",
+  "active": "efcb76b6b0152c57",
   "lastOpenFiles": [
+    "KB/Git/How to undo local changes.md",
     "KB/Git/Git.md",
-    "KB/Git/Architecture.md",
+    "Airflow.md",
+    "KB/Airflow/Migration 1.x to 2.x.md",
+    "KB/dbt/dbt.md",
+    "KB/Airflow",
+    "KB/Git/Recipes.md",
     "KB/Git/GUIs for git.md",
-    "KB/Obsidian/Obsidian.md",
-    "Index.canvas",
-    "KB/Big Query/Big Query.md",
-    "images/screenshots/pyCharm git integration image.png",
-    "KB/Databases/Tools.md",
-    "KB/Matillion/Matillion.md",
-    "KB/Git/Integrations.md"
+    "KB/Git/Architecture.md",
+    "KB/sqllite/sqllite.md",
+    "KB/Databases/Exercises.md",
+    "KB/Databases/Find duplicate records.md",
+    "KB/Big Query/Big Query.md"
   ]
 }

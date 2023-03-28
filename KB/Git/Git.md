@@ -11,9 +11,10 @@ Git is a distributed version control system, tracking changes in any set of file
 [Free on-line book: Git pro](https://git-scm.com/book/en/v2)
 ### Cheatsheet
 [Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+[[How to undo local changes]]
 ### On-line Classes
-### Other resources
 [Playground (with visualization of effects)](https://git-school.github.io/visualizing-git/#free-remote)
+### Other resources
 [[Visualizations of important concepts]]
 [[Recipes]]
 [[Git Internals]]
