@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2f7422b80b24157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KB/Git/Stash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KB/Git/Git.md",
+                "file": "KB/Git/Stash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KB/Git/Git.md",
+                "file": "KB/Git/Stash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KB/Git/Git.md"
+                "file": "KB/Git/Stash.md"
               }
             }
           },
@@ -259,8 +271,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6d11e3c0683186f",
+  "active": "66a818e7049dbe0e",
   "lastOpenFiles": [
+    "KB/Git/Git.md",
+    "KB/Git/Stash.md",
     "KB/Kubernetes/Kubernetes.md",
     "Colima.md",
     "KB/Docker",
@@ -277,7 +291,6 @@
     "KB/Airflow/Migration 1.x to 2.x.md",
     "KB/VSCode",
     "KB/Git/How to undo local changes.md",
-    "KB/Git/Git.md",
     "KB/dbt/dbt.md",
     "KB/Airflow",
     "KB/Git/Recipes.md",
