@@ -1,2 +1,0 @@
-[[SQL Exercises]]
-[[Tools]]
